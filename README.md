@@ -4,10 +4,10 @@ Juego del ahorcado con vocabulario para prácticar en inglés. (Hangman Game)�
 
 ## Características
 
--Más de 300 palabras 
--Sistema de puntuación y tabla de records
--Partidas con tiempo cronometrado
--Practica la pronunciación a través de varias categorías con ayuda de un narrador en inglés.
+-.Más de 300 palabras 
+.-Sistema de puntuación y tabla de records
+.-Partidas con tiempo cronometrado
+.-Practica la pronunciación a través de varias categorías con ayuda de un narrador en inglés.
 
 ## Como ejecutar
 
