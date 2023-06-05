@@ -1,7 +1,7 @@
 # Hangman game
 
 Juego del ahorcado con vocabulario para prácticar en inglés. (Hangman Game)💻🎮
-
+Este juego está desarrollado con el paradigma de programación POO y mediante patrón de diseño modelo vista controlador.
 ## Características
 
 - Más de 300 palabras 
